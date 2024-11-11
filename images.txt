@@ -10,3 +10,4 @@ lobehub/lobe-chat:latest
 hslr/sun-panel:latest
 xhongc/music_tag_web:latest
 allanpk716/chinesesubfinder:latest
+talebook/talebook:latest
