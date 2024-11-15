@@ -11,4 +11,3 @@ hslr/sun-panel:latest
 xhongc/music_tag_web:latest
 allanpk716/chinesesubfinder:latest
 talebook/talebook:latest
-cxfksword/douban-api-rs:latest
