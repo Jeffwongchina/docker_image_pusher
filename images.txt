@@ -12,4 +12,5 @@ xhongc/music_tag_web:latest
 allanpk716/chinesesubfinder:latest
 talebook/talebook:latest
 xhongc/music_tag_web:latest
-dromara/domain_admin:latest
+mouday/domain-admin:latest
+mouday/domain-admin-web:latest
