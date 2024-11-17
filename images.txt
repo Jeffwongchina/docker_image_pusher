@@ -13,4 +13,3 @@ allanpk716/chinesesubfinder:latest
 talebook/talebook:latest
 xhongc/music_tag_web:latest
 mouday/domain-admin:latest
-mouday/domain-admin-web:latest
