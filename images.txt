@@ -15,5 +15,4 @@ xhongc/music_tag_web:latest
 mouday/domain-admin:latest
 frooodle/s-pdf:latest
 containrrr/watchtower:latest
-ledccn/iyuuplus-dev:latest
 AppFlowy-IO/AppFlowy:latest
