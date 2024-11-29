@@ -16,4 +16,4 @@ mouday/domain-admin:latest
 frooodle/s-pdf:latest
 containrrr/watchtower:latest
 ledccn/iyuuplus-dev:latest
-appflowy-io/appflowy:latest
+AppFlowy-IO/AppFlowy-Cloud:latest
