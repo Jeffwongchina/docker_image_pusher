@@ -16,3 +16,4 @@ mouday/domain-admin:latest
 frooodle/s-pdf:latest
 containrrr/watchtower:latest
 site-manager:latest
+iyuuplus-dev:latest
