@@ -17,4 +17,4 @@ frooodle/s-pdf:latest
 containrrr/watchtower:latest
 jxxghp/moviepilot-v2:latest
 ledccn/iyuuplus-dev:latest
-appflowy-iO/appflowy-cloud:latest
+appflowy-io/appflowy-cloud:latest
