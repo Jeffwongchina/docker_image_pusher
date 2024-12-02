@@ -16,5 +16,5 @@ mouday/domain-admin:latest
 frooodle/s-pdf:latest
 containrrr/watchtower:latest
 jxxghp/moviepilot-v2:latest
-appflowy-IO/appflowy-cloud:latest
 ledccn/iyuuplus-dev:latest
+appflowy-iO/appflowy-cloud:latest
