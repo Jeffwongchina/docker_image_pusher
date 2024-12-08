@@ -16,4 +16,5 @@ mouday/domain-admin:latest
 frooodle/s-pdf:latest
 containrrr/watchtower:latest
 jxxghp/moviepilot-v2:latest
+postgres/postgres:latest
 PostgREST/postgrest:latest
