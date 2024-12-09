@@ -17,3 +17,4 @@ frooodle/s-pdf:latest
 containrrr/watchtower:latest
 jxxghp/moviepilot-v2:latest
 pgvector/pgvector:pg16
+minio/minio
