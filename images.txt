@@ -19,5 +19,6 @@ jxxghp/moviepilot-v2:latest
 pgvector/pgvector:pg16
 minio/minio:RELEASE.2024-09-13T20-26-02Z
 svhd/logto
+iyuucn/iyuuplus
 nextauthjs/next-auth:latest
 Bin-Huang/chatbox:latest
