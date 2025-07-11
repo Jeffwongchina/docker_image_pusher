@@ -20,3 +20,4 @@ pgvector/pgvector:pg16
 minio/minio:RELEASE.2024-09-13T20-26-02Z
 svhd/logto:1.20
 iyuucn/iyuuplus:latest
+ricwang/docker-wechat:last
