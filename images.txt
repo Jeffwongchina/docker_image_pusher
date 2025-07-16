@@ -25,3 +25,4 @@ likeflyme/cloudbak:latest
 iyuucn/iyuuplus-dev:latest
 docker/dockerfile:latest
 talebook/talebook:latest
+talebook/douban-api-rs:latest
