@@ -23,8 +23,6 @@ iyuucn/iyuuplus:latest
 ricwang/docker-wechat
 likeflyme/cloudbak:latest
 iyuucn/iyuuplus-dev:latest
-docker/dockerfile:latest
 talebook/talebook:latest
 talebook/douban-api-rs:latest
 easychen/cookiecloud:latest
-linuxserver/webtop:latest
