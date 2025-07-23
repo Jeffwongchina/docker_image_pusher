@@ -27,3 +27,4 @@ talebook/talebook:latest
 talebook/douban-api-rs:latest
 easychen/cookiecloud:latest
 stirlingtools/stirling-pdf:latest
+eternalcurse/pt-accelerator:latest
