@@ -28,3 +28,4 @@ talebook/douban-api-rs:latest
 easychen/cookiecloud:latest
 stirlingtools/stirling-pdf:latest
 eternalcurse/pt-accelerator:latest
+moelin/1panel:latest
