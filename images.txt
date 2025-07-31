@@ -30,4 +30,4 @@ stirlingtools/stirling-pdf:latest
 eternalcurse/pt-accelerator:latest
 moelin/1panel:latest
 doxwant/gotab:latest
-mysql:latest
+mysql:8.0
