@@ -31,3 +31,4 @@ eternalcurse/pt-accelerator:latest
 moelin/1panel:latest
 ghcr.io/shen-chris/dsq-docker-wechat:main
 btpanel/baota:nas
+btpanel/baota-x86:lnmp
