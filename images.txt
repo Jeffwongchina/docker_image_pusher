@@ -33,3 +33,4 @@ ghcr.io/shen-chris/dsq-docker-wechat:main
 btpanel/baota:9.0_lts_lnmp
 btpanel/baota-x86:lnmp
 btpanel/baota:lnmp
+n8nio/n8n:latest
