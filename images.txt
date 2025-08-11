@@ -35,3 +35,4 @@ btpanel/baota-x86:lnmp
 btpanel/baota:lnmp
 n8nio/n8n:latest
 postgres:13
+mintplexlabs/anythingllm:latest
