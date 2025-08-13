@@ -36,4 +36,4 @@ btpanel/baota:lnmp
 n8nio/n8n:latest
 postgres:13
 mintplexlabs/anythingllm:latest
-pgvector/postgres:16-alpine
+postgres:16-alpine
