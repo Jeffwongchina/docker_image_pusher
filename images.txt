@@ -38,4 +38,4 @@ postgres:13
 mintplexlabs/anythingllm:latest
 postgres:16-alpine
 adminer:5.2.1
-inuxserver/transmission:4.0.5
+linuxserver/transmission:4.0.5
