@@ -37,5 +37,5 @@ postgres:16-alpine
 linuxserver/transmission:4.0.5
 cqshushu/iptv-spider:latest
 mysql:5.7
-sqdockler/simple_sq_music_plus:latest
-sqdockler/simple_sq_music_plus_web:latest
+sqdockler/simple_sq_music_plus:v3.0.8
+sqdockler/simple_sq_music_plus_web:v3.0.5
