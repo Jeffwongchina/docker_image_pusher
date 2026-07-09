@@ -37,3 +37,4 @@ postgres:16-alpine
 linuxserver/transmission:4.0.5
 cqshushu/iptv-spider:latest
 mysql:latest
+deluan/navidrome:latest
