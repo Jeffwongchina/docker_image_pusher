@@ -17,7 +17,6 @@ frooodle/s-pdf:latest
 containrrr/watchtower:latest
 jxxghp/moviepilot-v2:latest
 pgvector/pgvector:pg16
-minio/minio:latest
 svhd/logto:1.20
 iyuucn/iyuuplus:latest
 ricwang/docker-wechat
